@@ -36,10 +36,18 @@ energy-line tapping, and detects an overload of usage. GramPower has addressed I
 issues while also providing an off-grid solution by using renewable energy.
 
 ####GhamPower
-[GhamPower](http://ghampower.com)
+[GhamPower](http://ghampower.com) provides off grid solar for business and communities. GhamPower 
+started originally in Nepal in 2010 but since have deployed 600 projects for industries, business,
+and households.
 
 ####Simpa Networks
-[Simpa Networks](http://simpanetworks.com)
+[Simpa Networks](http://simpanetworks.com) is a company that caters to rural India that uses a 
+"progressive purchase" model that shares some characteristics of the familiar “pay as you go”, 
+and “installment plan” pricing models. The consumer makes a series of payments, each of which unlocks 
+the solar home system for a paid amount of energy consumption. Once the prepaid consumption is 
+exhausted, the system is temporarily disabled until another payment is made. Once the consumer has 
+fully paid the total purchase price of the product, full functionality is restored and the product is 
+permanently unlocked.
 
 ####Grameen Shakti
 [Grameen Shakti](http://gshakti.org)is based in Bangladesh and offers low cost programs in the rural 
@@ -48,8 +56,16 @@ community leadership while also providing work for women. The programs use soft 
 intallments which makes their sources of renewable energy affordable.
 
 ####CTx Green
+[CTx Green](http://energymap-scu.org/ctx-green/) is a Canadian non-profit organization that helps rural 
+communities in India convert locally available resources, such as oil seeds, into biodiesel. Thus creating 
+jobs and roles in communities while also providing a cleaner, cheaper source of energy than diesel.
 
 ####M-Kopa Solar
-[M-Kopa Solar](http://m-kopa.com)
+[M-Kopa Solar](http://m-kopa.com) is based in Kenya where they provide a pay as you go service for solar in 
+off grid areas. Rent-to-own. Mobile banking. Set up 500 homes a day.
+
+####Orb Energy
+[Orb Energy](http://orbenergy.com/) located in Bagalkot, India. Sells, installs, and maintains solar panals
+directly. Works with banks to take solar loans.
 
 
