@@ -68,4 +68,18 @@ off grid areas. Rent-to-own. Mobile banking. Set up 500 homes a day.
 [Orb Energy](http://orbenergy.com/) located in Bagalkot, India. Sells, installs, and maintains solar panals
 directly. Works with banks to take solar loans.
 
+####ONergy
+[ONergy](http://onergy.in/)
+
+####Solar Sister
+[Solar Sister](https://www.solarsister.org/)
+
+####Tecnosol
+[Tecnosol](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&prev=search&rurl=translate.google.com&sl=es&u=https://tecnosol.online.com.ni/Pages/default.aspx&usg=ALkJrhhWFxM_TJTvOqBazaBgY72Cl-bACg) is a solar company based in Central America
+
+####D.Light
+[D.Light](http://www.dlight.com/) is a solar energy company in India.
+
+
+
 
